@@ -1123,10 +1123,7 @@ for (int i = 0; i < 3; i++){
 }
 ```
 
-# 25. Funciones
-
-
-## Definición
+## Funciones
 
 * Estructura de código 
 * Realiza tareas individualmente
@@ -1186,10 +1183,7 @@ void main(){
 
 ```
 
-# 26. Funciones recursivas
-
-
-## Estructura básica
+## Funciones recursivas
 
 ```cpp
 void recursiva(){
@@ -1275,10 +1269,8 @@ ifstream nombre ("destino.txt", ios::in);
 fstream nombre ("destino.txt", ios::in | ios::out);
 ```
 
-# 32. Lectura y escritura de estructuras
 
-
-## Requisitos
+## Lectura y escritura de estructuras
 
 1. Crear una estructura
 
